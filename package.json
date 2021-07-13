@@ -13,10 +13,14 @@
   "author": "karsa",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "chalk": "^4.1.1",
     "cowsay": "^1.5.0",
+    "fs-extra": "^10.0.0",
     "inquirer": "^8.1.1",
     "loadash": "^1.0.0",
+    "node": "^16.4.1",
+    "node-fetch": "^2.6.1",
     "progress": "^2.0.3"
   },
   "devDependencies": {
